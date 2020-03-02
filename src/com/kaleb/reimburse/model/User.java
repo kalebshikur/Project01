@@ -1,5 +1,5 @@
 package com.kaleb.reimburse.model;
 
-public class User {
+public interface User {
 
 }
